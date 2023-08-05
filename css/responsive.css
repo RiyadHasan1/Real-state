@@ -1,0 +1,364 @@
+/* Xl-divice :1200px. */
+@media (min-width: 1201px) and (max-width: 1500px) {
+
+
+}
+
+
+/* LG-divice :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.cta-button {
+    text-align: center;
+	margin-top:20px;
+}	
+.features-img img{
+	width:100%;
+}	
+.features-content p {
+    font-size: 13px;
+    line-height: 20px;
+}
+.features-icon {
+    margin-bottom: 0px;
+}
+.pb-70 {
+    padding-bottom: 40px;
+}
+.features-area {
+    padding: 40px 0;
+}
+.services-area {
+    padding: 40px 0 0px;
+}
+.mb-80 {
+    margin-bottom: 40px;
+}
+.pt-70 {
+    padding-top: 40px;
+}
+.hire-us-img img{
+	width:100%;
+}
+.footer-widget form button {
+    float: right;
+    top: 10px;
+    position: relative;
+}
+}
+
+
+ 
+/* Tablet desktop :768px. */
+/* MD-divice :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.main-menu ul li {
+    margin-left: 20px;
+}
+.cta-button {
+    text-align: center;
+    margin-top: 20px;
+}
+.features-img img{
+	width:100%;
+}
+.video {
+    top: 80px;
+}
+.pt-70 {
+    padding-top: 40px;
+}
+.mb-80 {
+    margin-bottom: 40px;
+}
+.features-area {
+    padding: 40px 0;
+}
+.services-area {
+    padding: 40px 0 0px;
+}
+.single-service {
+    margin-bottom: 20px;
+}
+.choose-content p {
+    margin-bottom: 0px;
+}
+.pt-180 {
+    padding-top: 120px;
+}
+.pb-180 {
+    padding-bottom: 90px;
+}
+.blog-content {
+    padding-left: 20px;
+}
+.blog-img span {
+    font-size: 20px;
+}
+.testimonials-img img {
+    width: 75px;
+    height: 75px;
+}
+.author-profile span {
+    font-size: 14px;
+}
+.pb-70 {
+    padding-bottom: 40px;
+}
+.brand-area {
+    padding-bottom:0px;
+}
+.footer-social a {
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.footer-widget form {
+    margin-top: 10px;
+}
+.hire-us-img img{
+	width:100%;
+}
+.pt-180 {
+    padding-top: 120px;
+}
+.section-title a {
+    margin-top: 0px;
+}
+.section-title p {
+    margin-top: 15px;
+    line-height: 26px;
+}
+.footer-widget form button {
+    float: right;
+    top: 10px;
+    position: relative;
+}
+.single-brand img {
+    padding-left: 30px;
+	padding-right: 0px;
+}
+.features-content p {
+    display: none;
+}
+.single-features {
+    text-align: center;
+}
+.testimonials-area {
+    position: relative;
+    top: 30px;
+}
+}
+
+ 
+/* small mobile :320px. */
+/* Extra-small-divice :320px. */
+@media (max-width: 767px) {
+.pt-180 {
+    padding-top: 120px;
+}
+.pb-70 {
+    padding-bottom: 40px;
+}
+.pt-180 {
+    padding-top: 70px;
+}
+.pb-180 {
+    padding-bottom: 50px;
+}
+.pt-70 {
+    padding-top: 40px;
+}
+.mb-80 {
+    margin-bottom: 40px;
+}
+ 
+.services-area {
+    padding: 40px 0 0px;
+}
+.choose-icon {
+    margin-bottom: 5px;
+}
+.choose-content {
+    margin-top: 20px;
+}
+.hire-us-img img{
+	width:100%;
+}
+.footer-widget form button {
+    position: relative;
+    top: 10px;
+}
+.footer-widget form input {
+    width: 75%;
+}
+.footer-widget {
+    margin-top: 20px;
+}
+.single-slide a {
+    padding: 20px 30px;
+}
+.single-slide h4 {
+    font-size: 25px;
+}
+.single-slide h2 {
+    font-size: 40px;
+}
+.slider-active .owl-nav button.owl-next{
+	right:20px;
+	left:auto;
+}
+.slider-active .owl-nav button.owl-prev{
+	left:20px;
+	right:auto;
+}
+
+
+
+
+}
+ 
+/* Sm divice:550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+.cta-button {
+    top: 35px;
+    position: relative;
+}
+.features-img img {
+	width:100%;
+}
+.pt-180 {
+    padding-top: 120px;
+}
+.pb-70 {
+    padding-bottom: 40px;
+}
+.pt-180 {
+    padding-top: 70px;
+}
+.pb-180 {
+    padding-bottom: 50px;
+}
+.pt-70 {
+    padding-top: 40px;
+}
+.mb-80 {
+    margin-bottom: 40px;
+}
+.features-icon h3 {
+    display: block;
+}
+.features-icon i {
+    display: block;
+}
+.features-content {
+    text-align: center;
+}
+.features-area {
+    padding: 40px 0;
+}
+.features-icon {
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.features-icon h3 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.features-content p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.features-content a {
+    font-size: 20px;
+}
+.features-content {
+    transform: translatey(61%);
+}
+.services-area {
+    padding: 40px 0 0px;
+}
+.single-service {
+    margin-bottom: 20px;
+}
+.choose-icon {
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.choose-content p {
+    font-size: 17px;
+    margin-bottom: 5px;
+}
+.choose-icon a {
+    font-size: 40px;
+}
+.choose-icon a {
+    font-size: 40px;
+}
+.hire-us-img img{
+	width:100%;
+}
+.section-title a {
+    margin-top: 0px;
+}
+.section-title p {
+    margin-top: 15px;
+    line-height: 26px;
+}
+.section-title a {
+    padding: 10px 20px;
+    font-size: 13px;
+}
+.testimonials-area {
+    margin-top: 20px;
+}
+.footer-widget form button {
+    float: right;
+    top: 10px;
+    position: relative;
+}
+.single-slide a {
+    padding: 20px 30px;
+}
+.single-slide h4 {
+    font-size: 25px;
+}
+.single-slide h2 {
+    font-size: 50px;
+}
+.slider-active .owl-nav button.owl-next{
+	right:30px;
+	left:auto;
+}
+.slider-active .owl-nav button.owl-prev{
+	left:30px;
+	right:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
